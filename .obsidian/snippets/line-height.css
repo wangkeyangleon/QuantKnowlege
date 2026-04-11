@@ -1,0 +1,8 @@
+/* 编辑模式行高 */
+.cm-line {
+  line-height: 1.7 !important;
+}
+/* 阅读模式行高 */
+.markdown-preview-view p {
+  line-height: 1.7 !important;
+}
