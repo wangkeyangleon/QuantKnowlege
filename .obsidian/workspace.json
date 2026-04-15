@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化.md",
+                "file": "Machine Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "量化"
+              "title": "Machine Learning"
             }
           }
         ]
@@ -80,13 +80,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "量化.md",
+                "file": "Machine Learning.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 量化"
+              "title": "Outline of Machine Learning"
             }
           }
         ],
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "3c5421d0d9e87566",
@@ -185,11 +185,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "139531eeb0ebd73b",
+  "active": "2bab0e080190e45e",
   "lastOpenFiles": [
-    "月度计划.md",
     "个人想法.md",
+    "Machine Learning.md",
     "量化.md",
+    "月度计划.md",
     "未命名.canvas",
     "自学量化记录.md",
     "豆包.png"
