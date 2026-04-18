@@ -1,6 +1,28 @@
 ## Definition
 Fields of study that gives computers the ability to learn without being explicitly programmed
 
+## Terminology
+### Training Set
+Data used to train the model
+### Notation(数学符号)
+x = “input” variable 
+	feature
+y = output variable 
+	target variable
+
+m = number of training examples
+
+(x , y) = single training example
+
+$$ (x^{(i)}, y^{(i)}) = i^{\text{th}} \text{ training example } (1^{\text{st}}, 2^{\text{nd}}, 3^{\text{rd}} \dots) $$
+f = function(Model)
+
+$\hat{y}$ = predict value
+
+### Cost Function(代价函数)
+
+Squared error cost function:is the most commonly used one for linear regression
+ 
 ## Supervised learning
 
 Learns from being given "**right answers**"
@@ -13,6 +35,12 @@ learning input-output or X to Y mappings
 Predict a number 
 infinitely many possible outputs
 example: predict house prices
+
+##### 1.1 Linear Regression Model
+
+Linear regression with one variable
+
+Also named univariate linear regression
 
 #### 2. Classification Algorithm
 
