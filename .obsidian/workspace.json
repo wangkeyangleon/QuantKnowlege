@@ -61,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "搜索"
+              "title": "Search"
             }
           },
           {
@@ -187,12 +187,14 @@
   },
   "active": "2bab0e080190e45e",
   "lastOpenFiles": [
-    "个人想法.md",
+    "学习心得.md",
     "Machine Learning.md",
+    "Pasted image 20260419173033.png",
     "量化.md",
+    "豆包.png",
+    "个人想法.md",
     "月度计划.md",
     "未命名.canvas",
-    "自学量化记录.md",
-    "豆包.png"
+    "自学量化记录.md"
   ]
 }
