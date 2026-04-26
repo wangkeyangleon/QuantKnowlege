@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0ddcce8d52ab292e",
+        "id": "3516f904c242ac4b",
         "type": "tabs",
         "children": [
           {
-            "id": "139531eeb0ebd73b",
+            "id": "1c2a9ca4c4fdec1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -87,6 +87,16 @@
               },
               "icon": "lucide-list",
               "title": "Outline of Machine Learning"
+            }
+          },
+          {
+            "id": "bc5afe895f262eef",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ],
@@ -185,15 +195,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "2bab0e080190e45e",
+  "active": "1c2a9ca4c4fdec1e",
   "lastOpenFiles": [
+    "月度计划.md",
+    "量化框架.md",
+    "量化.md",
+    "个人想法.md",
     "学习心得.md",
     "Machine Learning.md",
+    "Pasted image 20260426155215.png",
+    "Untitled.canvas",
     "Pasted image 20260419173033.png",
-    "量化.md",
     "豆包.png",
-    "个人想法.md",
-    "月度计划.md",
     "未命名.canvas",
     "自学量化记录.md"
   ]

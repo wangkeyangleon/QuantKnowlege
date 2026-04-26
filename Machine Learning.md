@@ -165,9 +165,46 @@ $f_{\vec{w},b}(\vec{x}) = w_1 x_1 + w_2 x_2 + w_3 x_3 + b$
 - $b$ is a number 
 - $\vec{x} = \begin{bmatrix} x_1 & x_2 & x_3 \end{bmatrix}$ 
 - linear algebra: count from 1
+
+$$ f_{\vec{w},b}(\vec{x}) = \vec{w} \cdot \vec{x} + b $$
+ ### 使用np.dot比普通循环快的的原因
+ - 消除python解释器开销：普通for循环，每一步都要经过python的解释循环、类型检查、边界检查、对象创建，numpy的计算循环全部都在编译好的C/Fortran代码里执行，一次调用就直接进入机器码
+ - 直接调用高度优化的BLAS库
+ - SMLD指令级并行：现代CPU支持SIMD指令集，可以一条指令同时处理多个浮点数
+ - 缓存友好与自动分块
+ - 多线程并行
+ - 内存布局与连续访问：numpy数组是在内存中连续、同质的C/Fortran顺序存储，访问效率远高于python列表（列表存的是对象指针，数据不连续）
+
+### Gradient descent
+$$ w_j = w_j - \alpha \frac{\partial}{\partial w_j} J(\vec{w}, b) $$
+$n$ features ($n \ge 2$) repeat { $$ j=1: \quad w_1 = w_1 - \alpha \frac{1}{m} \sum_{i=1}^m \left( f_{\vec{w},b}(\vec{x}^{(i)}) - y^{(i)} \right) x_1^{(i)} $$ $$ \vdots $$ $$ j=n: \quad w_n = w_n - \alpha \frac{1}{m} \sum_{i=1}^m \left( f_{\vec{w},b}(\vec{x}^{(i)}) - y^{(i)} \right) x_n^{(i)} $$ simultaneously update $w_j$ (for $j = 1, \dots, n$) and $b$ }
+
+$$ b = b - \alpha \frac{\partial}{\partial b} J(\vec{w}, b) $$
+
+ $$ b = b - \alpha \frac{1}{m} \sum_{i=1}^m \left( f_{\vec{w},b}(\vec{x}^{(i)}) - y^{(i)} \right) $$
+
+
+## Feature Scaling(特征缩放)
+
+### Mean normalization(均值归一化)
+#### 定义
+目的是让不同量纲、不同数值范围的特征，映射成到同一区间，从而加速梯度下降收敛、提升模型稳定性
+#### 公式
+$x_j^{(i)} = \frac{x_j^{(i)} - \mu_j}{\max(x_j) - \min(x_j)}$
+- $x_j^{(i)}$：第 j 个特征的第 i 个样本原始值
+- $\mu_j$：第 j 个特征的样本均值（average）
+- $\max(x_j)$：第 j 个特征的最大值
+- $\min(x_j)$：第 j 个特征的最小值
+
+### Z-Score normalization
+
+
+### 比较
+
+![[Pasted image 20260426155215.png]]
+
  
-
-
+ 
 
 
 
