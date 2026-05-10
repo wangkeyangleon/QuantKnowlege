@@ -204,7 +204,18 @@ $x_j^{(i)} = \frac{x_j^{(i)} - \mu_j}{\max(x_j) - \min(x_j)}$
 ![[Pasted image 20260426155215.png]]
 
  
- 
+
+## Feature Engineering
+### Definition
+Using intuition to design new features, by transforming or combing original features.
+
+### Polynomial Regression(多项式回归)
+
+
+
+
+## Logistic regression
+
 
 
 
