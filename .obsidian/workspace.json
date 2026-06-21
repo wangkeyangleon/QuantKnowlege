@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化.md",
+                "file": "Mistery.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "量化"
+              "title": "Mistery"
             }
           }
         ]
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -80,13 +80,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "量化.md",
+                "file": "Mistery.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 量化"
+              "title": "Outline of Mistery"
             }
           },
           {
@@ -104,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3c5421d0d9e87566",
@@ -196,8 +195,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "ab0ca7d527e18ac6",
+  "active": "2bab0e080190e45e",
   "lastOpenFiles": [
+    "AiQuant.md",
+    "Untitled.canvas",
+    "Mistery.md",
+    "量化.md",
     "Pasted image 20260510154301.png",
     "Pasted image 20260510154235.png",
     "Pasted image 20260510154140.png",
@@ -205,7 +208,6 @@
     "Pasted image 20260506195815.png",
     "学习心得.md",
     "个人想法.md",
-    "量化.md",
     "聚宽学习大纲.md",
     "自学量化记录.md",
     "image-20260323211258322.png",
@@ -213,7 +215,6 @@
     "Untitled",
     "月度计划.md",
     "Pasted image 20260426155215.png",
-    "Untitled.canvas",
     "Pasted image 20260419173033.png",
     "豆包.png",
     "未命名.canvas"

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Mistery",
+      "path": "Mistery.md"
+    },
+    {
+      "basename": "AiQuant",
+      "path": "AiQuant.md"
+    },
+    {
       "basename": "量化",
       "path": "量化.md"
     },
@@ -35,10 +43,6 @@
     {
       "basename": "月度计划",
       "path": "月度计划.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.canvas"
     }
   ],
   "omittedPaths": [],
