@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mistery.md",
+                "file": "PTOS初稿-业务优化修订版 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mistery"
+              "title": "PTOS初稿-业务优化修订版 1"
+            }
+          },
+          {
+            "id": "fc071baa3bc59694",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "优化版本PTOS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "优化版本PTOS"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -71,7 +86,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "书签"
+              "title": "Bookmarks"
             }
           },
           {
@@ -80,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mistery.md",
+                "file": "优化版本PTOS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mistery"
+              "title": "Outline of 优化版本PTOS"
             }
           },
           {
@@ -192,31 +207,46 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "bijitongbu:tongbuzhushou": false
     }
   },
-  "active": "2bab0e080190e45e",
+  "active": "fc071baa3bc59694",
   "lastOpenFiles": [
-    "AiQuant.md",
-    "Untitled.canvas",
+    "RagFlow 框架.md",
+    "优化版本PTOS.md",
+    "PTOS初稿-业务优化修订版 1.md",
+    "Untitled.md",
     "Mistery.md",
-    "量化.md",
-    "Pasted image 20260510154301.png",
-    "Pasted image 20260510154235.png",
-    "Pasted image 20260510154140.png",
-    "量化框架.md",
-    "Pasted image 20260506195815.png",
-    "学习心得.md",
-    "个人想法.md",
+    "PTOS初稿-业务优化修订版.md",
+    "Pasted image 20260705140423.png",
+    "Pasted image 20260704124133.png",
+    "Machine Learning.md",
+    "笔记同步助手/2026-06-21/同步助手_2026-06-21.md",
+    "image-20260323211258322.png",
     "聚宽学习大纲.md",
     "自学量化记录.md",
-    "image-20260323211258322.png",
-    "Machine Learning.md",
-    "Untitled",
     "月度计划.md",
-    "Pasted image 20260426155215.png",
-    "Pasted image 20260419173033.png",
-    "豆包.png",
+    "量化.md",
+    "笔记同步助手/images/5d6c65a79bd2536c1580ea9c4fb95f3e_MD5.png",
+    "笔记同步助手/images/0ce02d59b8d683bf1c8af1eefa61f329_MD5.png",
+    "笔记同步助手/images/633714f1deffaa094d2d4caf4a7b040d_MD5.png",
+    "笔记同步助手/images/431825aa7798f7665c1ab45ff6601e52_MD5.png",
+    "笔记同步助手/images/fcebe434604c27703ab427b14e57e931_MD5.png",
+    "笔记同步助手/images/21a75b33f3911b3198b125dadc2662f6_MD5.png",
+    "笔记同步助手/images/b9bff1324d43d00fa856e32e50edd469_MD5.jpg",
+    "笔记同步助手/images",
+    "笔记同步助手/2026-06-22/知识库-360AI企业知识库.md",
+    "笔记同步助手/2026-06-22/同步助手_2026-06-22.md",
+    "笔记同步助手/2026-06-22",
+    "笔记同步助手/2026-06-21",
+    "笔记同步助手",
+    "AiQuant.md",
+    "Untitled.canvas",
+    "量化框架.md",
+    "学习心得.md",
+    "个人想法.md",
+    "Untitled",
     "未命名.canvas"
   ]
 }

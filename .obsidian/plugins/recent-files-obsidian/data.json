@@ -1,16 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "优化版本PTOS",
+      "path": "优化版本PTOS.md"
+    },
+    {
+      "basename": "RagFlow 框架",
+      "path": "RagFlow 框架.md"
+    },
+    {
+      "basename": "PTOS初稿-业务优化修订版 1",
+      "path": "PTOS初稿-业务优化修订版 1.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
       "basename": "Mistery",
       "path": "Mistery.md"
     },
     {
-      "basename": "AiQuant",
-      "path": "AiQuant.md"
+      "basename": "Machine Learning",
+      "path": "Machine Learning.md"
+    },
+    {
+      "basename": "同步助手_2026-06-21",
+      "path": "笔记同步助手/2026-06-21/同步助手_2026-06-21.md"
+    },
+    {
+      "basename": "image-20260323211258322",
+      "path": "image-20260323211258322.png"
+    },
+    {
+      "basename": "聚宽学习大纲",
+      "path": "聚宽学习大纲.md"
+    },
+    {
+      "basename": "自学量化记录",
+      "path": "自学量化记录.md"
+    },
+    {
+      "basename": "月度计划",
+      "path": "月度计划.md"
     },
     {
       "basename": "量化",
       "path": "量化.md"
+    },
+    {
+      "basename": "AiQuant",
+      "path": "AiQuant.md"
     },
     {
       "basename": "量化框架",
@@ -23,26 +63,6 @@
     {
       "basename": "个人想法",
       "path": "个人想法.md"
-    },
-    {
-      "basename": "聚宽学习大纲",
-      "path": "聚宽学习大纲.md"
-    },
-    {
-      "basename": "自学量化记录",
-      "path": "自学量化记录.md"
-    },
-    {
-      "basename": "image-20260323211258322",
-      "path": "image-20260323211258322.png"
-    },
-    {
-      "basename": "Machine Learning",
-      "path": "Machine Learning.md"
-    },
-    {
-      "basename": "月度计划",
-      "path": "月度计划.md"
     }
   ],
   "omittedPaths": [],
